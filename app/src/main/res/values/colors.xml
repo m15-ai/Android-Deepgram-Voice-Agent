@@ -1,0 +1,44 @@
+<resources>
+    <!-- Light theme -->
+    <color name="md_theme_light_primary">#4F46E5</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#E0E7FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#1E1B4B</color>
+
+    <color name="md_theme_light_secondary">#0EA5E9</color>
+    <color name="md_theme_light_onSecondary">#003244</color>
+    <color name="md_theme_light_secondaryContainer">#CFF0FF</color>
+    <color name="md_theme_light_onSecondaryContainer">#001F2A</color>
+
+    <color name="md_theme_light_background">#FFFFFF</color>
+    <color name="md_theme_light_onBackground">#111827</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#111827</color>
+
+    <color name="md_theme_light_error">#B00020</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+
+    <!-- Dark theme -->
+    <color name="md_theme_dark_primary">#818CF8</color>
+    <color name="md_theme_dark_onPrimary">#0B0B2A</color>
+    <color name="md_theme_dark_primaryContainer">#3730A3</color>
+    <color name="md_theme_dark_onPrimaryContainer">#E0E7FF</color>
+
+    <color name="md_theme_dark_secondary">#38BDF8</color>
+    <color name="md_theme_dark_onSecondary">#00131A</color>
+    <color name="md_theme_dark_secondaryContainer">#075985</color>
+    <color name="md_theme_dark_onSecondaryContainer">#CFF0FF</color>
+
+    <color name="md_theme_dark_background">#0B0F17</color>
+    <color name="md_theme_dark_onBackground">#E5E7EB</color>
+    <color name="md_theme_dark_surface">#0F172A</color>
+    <color name="md_theme_dark_onSurface">#E5E7EB</color>
+
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+
+    <!-- Optional legacy names (not used by Material3, but harmless) -->
+    <color name="colorPrimary">@color/md_theme_light_primary</color>
+    <color name="colorPrimaryDark">#1E1B4B</color>
+    <color name="colorAccent">@color/md_theme_light_secondary</color>
+</resources>
