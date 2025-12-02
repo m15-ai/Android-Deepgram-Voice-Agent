@@ -2,7 +2,7 @@
 
 *A realtime voice AI agent for Android, built for ultra-low latency.*
 
-<img src="assets\Screenshot.png" alt="Screenshot" style="zoom:33%;" />
+<img src="assets\Screenshot.png" alt="Screenshot-sm" style="zoom:50%;" />
 
 Watch the full MP4 on X (with audio): 
 https://x.com/yourhandle/status/1234567890
