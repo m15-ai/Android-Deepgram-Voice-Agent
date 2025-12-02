@@ -2,9 +2,9 @@
 
 *A realtime voice AI agent for Android, built for ultra-low latency.*
 
-<img src="assets\Screenshot.png" alt="Screenshot-sm" style="zoom:100%;" />
+<img src="assets\Screenshot.png" alt="Screenshot-sm" style="zoom:40%;" />
 
-Watch the full MP4 on X (with audio): 
+Watch the full MP4 on X (with audio) to hear the barge-in controller in action: 
 https://x.com/yourhandle/status/1234567890
 
 This project demonstrates a **full end-to-end mobile voice AI stack** using:
