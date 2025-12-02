@@ -87,7 +87,7 @@ This gives significantly more flexibility and performance when building **produc
 
 ## API Keys
 
-Add this to **local.properties** (never committed to GitHub):
+Add this to **local.properties**:
 
 ```
 DEEPGRAM_API_KEY=your_key
